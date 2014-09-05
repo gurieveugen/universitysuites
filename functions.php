@@ -9,6 +9,7 @@ add_editor_style();					// Allows editor-style.css to configure editor visual st
 
 
 require_once (dirname (__FILE__) . '/__custom_ticker.php');
+require_once 'includes/__.php';
 
 add_theme_support( 'post-thumbnails' );
 if ( function_exists( 'add_image_size' ) ) { 
