@@ -5,6 +5,9 @@
  */
  
 ?>
+<?php
+$facebook_album_shortcode = sprintf('[facebook_album]%s[/facebook_album]', get_option('fb_album_id'));
+?>
 <?php get_header(); ?>
 <?php get_sidebar(); ?>
 
@@ -32,7 +35,7 @@
 			
 			<div id="photos_ammenities"><?php echo do_shortcode('[g-gallery gid="173" random="0" watermark="0"]'); ?></div>
 			
-			<div id="photos_facebook"><?php echo do_shortcode('[g-gallery gid="35" random="0" watermark="0"]'); ?></div>
+			<div id="photos_facebook"><?php echo do_shortcode($facebook_album_shortcode); ?></div>
 						
           </article>            
 			<script type="text/javascript">
