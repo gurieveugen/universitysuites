@@ -1,0 +1,1 @@
+[04-Feb-2014 14:52:50 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/conwayun/public_html/wp-content/themes/universitysuites/index.php on line 7
