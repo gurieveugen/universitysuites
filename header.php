@@ -59,9 +59,9 @@
 <a href="http://www.conway.universitysuites.net/application/" class="btn-apply left">Apply now</a>
           
           <ul class="share-header right">
-            <li class="email"><a href="mailto:kallen@universitysuites.net">email</a></li>
+            <li class="email"><a href="mailto:landraka@universitysuites.net">email</a></li>
             <li class="tweet"><a href="https://twitter.com/CCUSuiteLife" target="_blank">tweet</a></li>
-            <li class="facebook"><a href="https://www.facebook.com/pages/U-Suites-Coastal/332268743319" target="_blank">facebook</a></li>
+            <li class="facebook"><a href="https://www.facebook.com/UniversitySuitesConway" target="_blank">facebook</a></li>
           </ul>
           
           <section class="contact-header right">
